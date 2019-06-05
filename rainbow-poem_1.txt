@@ -5,6 +5,7 @@ orange
 red
 i am adding the color the green
 pink
+indigo
 blue
 black
 i am adding the color violet
