@@ -2,6 +2,7 @@ This is a rainbow poem
 yellow 
 orange
 red
+i am adding the color the green
 pink
 blue
 black
